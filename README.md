@@ -1,7 +1,8 @@
 # Calculator-JS-HTML-CSS
 Expalin about the calc:  
 you can use in the operators =, +, -, /   
-you see decimal number   
+you see decimal number  
+you can delete the number on the screen  
 
 Enjoy!  
 
